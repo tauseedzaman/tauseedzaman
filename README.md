@@ -11,6 +11,12 @@
 
 ### Tech Stack
 
+
+<a href="#"><img align="left" alt="bootstrap" title="bootstrap" width="21px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-icon.svg" /></a>
+<a href="#"><img align="left" alt="sass" title="sass" width="21px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></a>
+<a href="#"><img align="left" alt="tailwind" title="tailwind" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" /></a>
+<a href="#"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
+<a href="#"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
 <a href="#"><img align="left" alt="bash" title="bash" width="25px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" /></a>
 <a href="laravel.com"><img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
@@ -19,6 +25,8 @@
 
  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
+<a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a>
+<a href="vuejs.org"><img align="left" alt="alpine" title="alpine" width="21px" src="https://cdn.worldvectorlogo.com/logos/alpine-13.svg" /></a>
  <a href="vuejs.org"><img align="left" alt="vue" title="vue" width="21px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" /></a>
   <a href="nuxtjs.org"><img align="left" alt="vue nuxt" title="vue nuxt" width="21px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
