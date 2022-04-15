@@ -1,4 +1,4 @@
-# Hi there 👋. This is tauseedzaman
+# Hi there 👋
 
 - 🔭 I’m currently working on all in one social share
 - 🌱 I’m currently learning Web3 
