@@ -1,13 +1,12 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on all in one social share
-- 🌱 I’m currently learning Web3 
+- 🔭 I’m currently looking for a job as a dev
+- 🌱 I’m currently learning Web3 development 
 - 👯 I’m looking to collaborate in Laravel
-- 🤔 I’m looking for help with NFT's Automation
 - 💬 Ask me about Web2 Development
 - 📫 How to reach me: tauseedzaman@pm.me
 - 😄 Pronouns: tauseedzaman
-- ⚡ Fun fact: Father of a Web2.0
+- ⚡ Fun fact: Father of a Web2.0 😁
 
 ### Tech Stack
 
