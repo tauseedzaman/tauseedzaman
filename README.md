@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - 🔭 I’m currently looking for a job as a dev
-- 🌱 I’m currently learning Web3 development 
+- 🌱 I’m currently learning AI development 
 - 👯 I’m looking to collaborate in Laravel
-- 💬 Ask me about Web2 Development
+- 💬 Ask me about BackEnd Development
 - 📫 How to reach me: tauseedzaman@pm.me
 - 😄 Pronouns: tauseedzaman
 - ⚡ Fun fact: Father of a Web2.0 😁
