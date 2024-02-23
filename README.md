@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently looking for a job as a dev
-- 🌱 I’m currently learning AI development 
+- 🔭 I’m currently full time freelancer
+- 🌱 I’m currently learning about AI and Web3 
 - 👯 I’m looking to collaborate in Laravel
 - 💬 Ask me about BackEnd Development
 - 📫 How to reach me: tauseedzaman@pm.me
