@@ -1,12 +1,12 @@
-# Hi there 👋
+# 🌟 Hello, World! 👋
 
-- 🔭 I’m currently full time freelancer
-- 🌱 I’m currently learning about AI and Web3 
-- 👯 I’m looking to collaborate in Laravel
-- 💬 Ask me about BackEnd Development
-- 📫 How to reach me: tauseedzaman@pm.me
-- 😄 Pronouns: tauseedzaman
-- ⚡ Fun fact: Father of a Web2.0 😁
+- **🔭 Currently:** Full-time freelancer diving into **AI** and **Web3**! 🚀
+- **🌱 Learning:** Always exploring the latest tech trends, including AI, Web3, and cybersecurity!
+- **👯 Collaboration:** Looking to team up with Laravel developers—let’s create something great!
+- **💬 Backend Guru:** Ask me anything about backend development!
+- **📫 Connect:** Reach me at [tauseedzaman@pm.me](mailto:tauseedzaman@pm.me).
+- **😄 Pronouns:** Tauseedzaman
+- **⚡ Fun Fact:** Proud “Father of Web 2.0” with a smile! 😁
 
 ### Tech Stack
 
@@ -18,9 +18,10 @@
 <a href="#"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
 <a href="#"><img align="left" alt="bash" title="bash" width="25px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" /></a>
-<a href="laravel.com"><img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-<a href="php.net"><img align="left" alt="php" title="php" width="21px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" /></a>
-<a href="#"><img align="left" alt="mysql" title="mysql" width="21px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" /></a>
+<a href="laravel.com">
+<img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
+<a href="php.net"><img align="left" alt="php" title="php" width="21px" src="https://github.com/user-attachments/assets/c321c828-bff1-437f-80b3-425843d26785" /></a>
+<a href="#"><img align="left" alt="mysql" title="mysql" width="21px" src="https://github.com/user-attachments/assets/de080acd-91dc-4687-b905-92087eece723" /></a>
 
  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
