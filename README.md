@@ -11,14 +11,17 @@
 
 ### Tech Stack
 
-
 <a href="#"><img align="left" alt="bootstrap" title="bootstrap" width="21px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-icon.svg" /></a>
 <a href="#"><img align="left" alt="sass" title="sass" width="21px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></a>
 <a href="#"><img align="left" alt="tailwind" title="tailwind" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" /></a>
 <a href="#"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
 <a href="#"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
-<a href="#"><img align="left" alt="bash" title="bash" width="25px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" /></a>
+<a href="#"><img align="left" alt="bash" title="bash" width="25px" src="https://github.com/user-attachments/assets/c63d801e-6268-4ffb-a68f-05a0975300f1" /></a>
+<a href="#"><img align="left" alt="powershell" title="powershell" width="25px" src="https://github.com/user-attachments/assets/62247514-28e7-4658-ab76-716bcbc25a43" /></a>
+<a href="#"><img align="left" alt="Solidity" title="Solidity" width="25px" src="https://github.com/user-attachments/assets/1ad0f5e1-f729-4b88-8557-e2c0dfa4d5f1" /></a>
+<a href="#"><img align="left" alt="AWS" title="AWS" width="25px" src="https://github.com/user-attachments/assets/975cc9a5-85ea-4f44-b016-12cce3932e5f" /></a>
+
 <a href="laravel.com">
 <img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="php.net"><img align="left" alt="php" title="php" width="21px" src="https://github.com/user-attachments/assets/c321c828-bff1-437f-80b3-425843d26785" /></a>
