@@ -33,18 +33,11 @@
 <a href="#"><img align="left" alt="express" title="express" width="29px" src="https://www.pngfind.com/images/lazy-bg.png"/></a>
 <a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a>
 <a href="vuejs.org"><img align="left" alt="alpine" title="alpine" width="21px" src="https://cdn.worldvectorlogo.com/logos/alpine-13.svg" /></a>
- <a href="vuejs.org"><img align="left" alt="vue" title="vue" width="21px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" /></a>
+
   <a href="nuxtjs.org"><img align="left" alt="vue nuxt" title="vue nuxt" width="21px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://nodejs.org/static/logos/nodejsStackedDark.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+ 
   <br>
   <br>
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/tauseedzaman">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tauseedzaman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tauseedzaman&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+ 
 
